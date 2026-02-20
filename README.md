@@ -8,7 +8,7 @@ O projeto foi idealizado como uma forma de aplicar, na prática, conhecimentos r
 
 ## Tecnologias Utilizadas
 
-Python – Backend e lógica de análise de senhas.
-Flask – Microframework web para o servidor e rotas da aplicação.
-JavaScript – Interatividade no frontend.
-HTML, CSS & Bootstrap – Estrutura, estilização e criação de interfaces responsivas.
+- Python – Backend e lógica de análise de senhas.
+- Flask – Microframework web para o servidor e rotas da aplicação.
+- JavaScript – Interatividade no frontend.
+- HTML, CSS & Bootstrap – Estrutura, estilização e criação de interfaces responsivas.
